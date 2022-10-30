@@ -1,15 +1,15 @@
 {
-  "title": "Light, fast & responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Professional nail service and friendly staffs.",
+  "text": "",
   "section": [
     {
-      "title": "Why Antd?",
-      "content": "Ant Design is a React UI library that has a lot of easy-to-use components for building elegant UI.",
+      "title": "Professional Staffs",
+      "content": "Licensed nail techs with years of experience that would go the extra mile to satisfy your requests.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
-      "content": "Styled Components gives you total control over your components.",
+      "title": "Quality Products",
+      "content": "We use the best quality products available so our clients can have healthy and beautiful nails.",
       "icon": "notes.svg"
     }
   ]

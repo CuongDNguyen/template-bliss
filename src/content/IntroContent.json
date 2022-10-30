@@ -1,12 +1,12 @@
 {
   "title": "Bliss Nails",
-  "text": "Beautifully designed templates using React.js, ant design and styled-components! Save weeks of time and build your landing page in minutes.",
+  "text": "At Bliss Nails, we strive to provide exceptional nail services using the best quality products available.",
   "button": [
     {
-      "title": "Explore"
+      "title": "About"
     },
     {
-      "title": "Learn more",
+      "title": "Services",
       "color": "#fff"
     }
   ]
